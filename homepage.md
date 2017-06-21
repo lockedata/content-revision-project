@@ -38,16 +38,16 @@ Move this below the intro copy
 - Lone data scientist?: Let us be your team and peer review service! **Read more**
 
 ### Spiel
-(h1 or h2 header size)**We know how to make data science work for you.**
+(h1 or h2 header size)**We know how to make data science work.**
 
-(h2 or h3 header size)Problems with data will mean that mistakes are made and time is wasted. Value will easily drain away from your organisation.
+(h2 or h3 header size)Problems with data will mean that mistakes are made and your time is wasted. Value will easily drain away from your organisation.
 
 (ditto)Locke Data is here to stop that from happening. With our help, you can spend less time on needless admin and more time with the exciting parts of your next big project.
 
 ### Call to Action - schedule call
 #### Schedule Call Now
 It's easy to get started. Organise your free call in the time it'll take you to brew yourself a coffee.
-**Schedule call now**
+**Schedule free call now**
 ### 3 x Services
 
 #### Strategy review
@@ -60,7 +60,7 @@ Assess your current position and find the right data science solution for you.
 #### Develop and grow
 ![](https://itsalocke.com/wp-content/uploads/2017/03/Mortar-Board-1.png)
 
-Invest in your staff to build a data science capability with less risk and cost.
+Eliminate risk and cost by investing in your staff.
 
 [Read more](https://itsalocke.com/build-internally/)
 
