@@ -90,5 +90,7 @@ Remove this - serves same purpose if schedule call is clicked(?)
 
 **If your Twitter/FB/Instagram is active, you may also want to consider a minimalistic-style feed here.**
 
+**Are you able to utilise the black footer space? You can add some white social media logos, an email address and a phone number/schedule call link here as an extra reminder for people.**
+
 ## Before shot
 ![](homepage-before.png)
