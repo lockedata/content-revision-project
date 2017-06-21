@@ -17,18 +17,17 @@
 ## Layout  
 The page consists of:
 
-1. A carousel
-2. Spiel
+1. Spiel
+2. A carousel
 3. Call to Action - schedule call
 4. 3 x Services
-5. Consultancy Services & Contact Us
-6. Calendly scheduler & Typeform training survey
-7. Call to Action - read blog
+5. Call to Action - read blog
+6. Social media widgets?
 
 ## Components' copy
 
 ### Carousel
-This is transient content showcasing what I want to boost right now.
+Move this below the intro copy
 
 ![](carousel.gif)
 
@@ -39,11 +38,11 @@ This is transient content showcasing what I want to boost right now.
 - Lone data scientist?: Let us be your team and peer review service! **Read more**
 
 ### Spiel
-**We know how to make data science work for you.**
+(h1 or h2 header size)**We know how to make data science work for you.**
 
-Problems with data will mean that mistakes are made and time is wasted. Value will easily drain away from your organisation.
+(h2 or h3 header size)Problems with data will mean that mistakes are made and time is wasted. Value will easily drain away from your organisation.
 
-Locke Data is here to stop that from happening. With our help, you can spend less time on needless admin and more time with the exciting parts of your next big project.
+(ditto)Locke Data is here to stop that from happening. With our help, you can spend less time on needless admin and more time with the exciting parts of your next big project.
 
 ### Call to Action - schedule call
 #### Schedule Call Now
@@ -88,6 +87,8 @@ Remove this - serves same purpose if schedule call is clicked(?)
 ### Learn data science
 (Depending on how often the blog is updated, can this be replaced with a 'Latest post' preview?)
 **Blog**
+
+**If your Twitter/FB/Instagram is active, you may also want to consider a minimalistic-style feed here.**
 
 ## Before shot
 ![](homepage-before.png)
