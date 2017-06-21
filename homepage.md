@@ -73,18 +73,20 @@ Get an assessment and improve the work you and/or your data science team is alre
 [Read more](https://itsalocke.com/get-feedback/)
 
 ### Consultancy Services & Contact Us
+Remove this
 
 #### Data Science Consultancy Services
-Here at Locke Data, we have a number of data science consultancy services to help organisations on their journey to data science. We offer ready-to-go services like our data science readiness review to help you get started more quickly, and we also offer bespoke data science consultancy services for when you need something a bit different.
+Remove this - already talked about above
 
 #### Talk to us
-Want to arrange a chat with us? Arrange a call now or use our contact form to get in touch.
+Remove this - already got the schedule call function at the top
 
 ### Calendly scheduler & Typeform training survey
+Remove this - serves same purpose if schedule call is clicked(?)
 
 ### Call to Action - read blog
 ### Learn data science
-At Locke Data, we love to blog. Check out our blog to get helpful hints and tips about data science and working with data more generally.
+(Depending on how often the blog is updated, can this be replaced with a 'Latest post' preview?)
 **Blog**
 
 ## Before shot
