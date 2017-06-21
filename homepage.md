@@ -51,36 +51,24 @@ It's easy to get started. Organise your free call in the time it'll take you to 
 **Schedule call now**
 ### 3 x Services
 
-#### Data Science Readiness
+#### Strategy review
 ![](https://itsalocke.com/wp-content/uploads/2017/03/Signs.png)
 
-Finding the right data science direction for your organisation is tough. It’s easy to get it wrong, or for it to take longer than it should.
-
-Locke Data is here to help your organisation assess its current position and determine the right data science direction going forward.
-
-Get started with a [Data Science Readiness Review](https://itsalocke.com/data-science-readiness-review/) to see where you need to go.
+Assess your current position and find the right data science solution for you.
 
 [Read more](https://itsalocke.com/data-science-readiness/)
 
-#### Build internally
+#### Develop and grow
 ![](https://itsalocke.com/wp-content/uploads/2017/03/Mortar-Board-1.png)
 
-Our philosophy at Locke Data is “build internally”. We believe that just hiring a lone data scientist results in poor outcomes for organisations.
-
-You need to grow the knowledge of key stakeholders and supporting teams. You can invest in your existing analytical staff to build a data science capability with less risk and cost.
-
-Get started by [training your BI people to use R](https://itsalocke.com/r-for-bi-people/), a core data science language.
+Invest in your staff to build a data science capability with less risk and cost.
 
 [Read more](https://itsalocke.com/build-internally/)
 
-#### Get feedback
+#### Get a second opinion
 ![](https://itsalocke.com/wp-content/uploads/2017/03/Stethoscope.png)
 
-It’s important to get feedback, especially when you’re first starting out.
-
-Early in the data science journey, Locke Data can help you assess and improve the work you and/or your data science team is doing.
-
-Get started with our [peer review](https://itsalocke.com/model-audits/) process.
+Get an assessment and improve the work you and/or your data science team is already doing. You might also want a [peer review](https://itsalocke.com/model-audits/).
 
 [Read more](https://itsalocke.com/get-feedback/)
 
