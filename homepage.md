@@ -39,19 +39,16 @@ This is transient content showcasing what I want to boost right now.
 - Lone data scientist?: Let us be your team and peer review service! **Read more**
 
 ### Spiel
-Data science is about building data solutions that solve company challenges. 
+**We know how to make data science work for you.**
 
-It requires the buy-in, input, and work from lots of areas of the organisation, and doesn't succeed by buying an off-the-shelf product or hiring a PhD graduate in Machine Learning. It takes a while to get it working smoothly.
+Problems with data will mean that mistakes are made and time is wasted. Value will easily drain away from your organisation.
 
-Locke Data is here to help you implement data science in your organisation so that it takes less time, fewer mistakes are made, and value is added sooner.
-
-[Read more](https://itsalocke.com/ready-data-science/)
+Locke Data is here to stop that from happening. With our help, you can spend less time on needless admin and more time with the exciting parts of your next big project.
 
 ### Call to Action - schedule call
-#### Talk to Steph
-Schedule a call to talk to us about what you're hoping to achieve with data science and how you can get started
-**Schedule call**
-
+#### Schedule Call Now
+It's easy to get started. Organise your free call in the time it'll take you to brew yourself a coffee.
+**Schedule call now**
 ### 3 x Services
 
 #### Data Science Readiness
